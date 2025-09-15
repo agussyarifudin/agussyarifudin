@@ -25,7 +25,7 @@
    
 ---
 
-### Languages and Tools:
+### Skill and Tools:
 
 [<img align="left" alt="MikroTik" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/8/80/MikroTik_Logo_%282022%29.svg" style="padding-right:130px;" />][webdev]
 
