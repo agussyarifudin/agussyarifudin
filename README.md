@@ -9,10 +9,15 @@
 
 #### 1. [STMIK Tulus Cendikia](https://www.tuluscendikia.ac.id) | Prog. Studi : Teknik Informatika | Bandung `2013-2017`
         
- #### 2. [SMK Al-Fathonah] | Teknik Komputer Jaringan | Cianjur `2007-2010`
+#### 2. [SMK Al-Fathonah] | Teknik Komputer Jaringan | Cianjur `2007-2010`
    - Asisten Pelatih Tae Kwon Do
    - Pengurus LAB Komputer ( Installasi komputer & Jaringan )
 
+#### 2. [MTs AT-TARBIYAH] | MTs | Cianjur `2006-2007`
+   - Anggota OSIS
+   
+#### 2. [MI AT-TARBIYAH]| MA | Cianjur `2003-2004`
+   
 ## Work Experience:
 #### 1. [PT.Indomarco Prismatama Cab. Tangerang 2](https://www.indomaret.co.id) | IT Network Enginer | Tangerang `Dec'2010 - Now`
    - Topology dan rancangan jaringan Indomaret Cabang Tangerang 2
@@ -29,6 +34,8 @@
 ### Skill and Tools:
 
 [<img align="left" alt="MikroTik" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/8/80/MikroTik_Logo_%282022%29.svg" style="padding-right:130px;" />][webdev]
+[<img align="left" alt="Aruba" width="150px" src="https://id.wikipedia.org/wiki/Berkas:Aruba_Networks_logo.svg#/media/Berkas:Aruba_Networks_logo.svg" style="padding-right:130px;" />][webdev]
+
 
 <br />
 <br />
