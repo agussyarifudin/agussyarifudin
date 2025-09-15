@@ -1,4 +1,4 @@
-# Hi there, I'm Agus - aka [agussyarifudin]
+# Hi there, I'm Agus - [agussyarifudin]
 ## About me:
 - 🔭 Saya saat ini bekerja sebagai IT Network Enginer at PT.Indomarco Prismatama Cab. Tangerang 2
 - 🌱 Saat ini saya sedang belajar Switch Managable, MikroTik, Fotigate, Routing, VPN, Cloud
