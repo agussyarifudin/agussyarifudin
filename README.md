@@ -2,16 +2,13 @@
 ## About me:
 - 🔭 Saya saat ini bekerja sebagai IT Network Enginer at PT.Indomarco Prismatama Cab. Tangerang 2
 - 🌱 Saat ini saya sedang belajar Switch Managable, MikroTik, Fotigate, Routing, VPN, Cloud
-- 💬 Ask me about anything
-- 📫 How to reach me: agoes.syarifoedin@gmail.com
+- 💬 Jika ada pertanyaan atau kebutuhan silahkan hubungi saya di kontak tertera 
+- 📫 Mail : agoes.syarifoedin@gmail.com | WhatsApp : 0821-55459248 | Intagram :  agus.syarifudin25 | facebook :  agus.syarifudin25 |
 
 ## Education:
 
 #### 1. [STMIK Tulus Cendikia](https://www.tuluscendikia.ac.id) | Prog. Studi : Teknik Informatika | Bandung `2013-2017`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
-     
+        
  #### 2. [SMK Al-Fathonah] | Teknik Komputer Jaringan | Cianjur `2007-2010`
    - Asisten Pelatih Tae Kwon Do
    - Pengurus LAB Komputer ( Installasi komputer & Jaringan )
@@ -21,8 +18,12 @@
    - Topology dan rancangan jaringan Indomaret Cabang Tangerang 2
    - Perencanaan administrasi dan kebutuhan perangkat
    - Infrastruktur Jaringan cabang & private network
-   - Integrasi SDWAN 
-   
+   - Routing
+   - VPN
+   - Integrasi SDWAN
+   - CCTV Perangkat DVR dsb
+   - Swith Managable
+     
 ---
 
 ### Skill and Tools:
