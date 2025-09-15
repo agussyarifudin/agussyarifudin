@@ -19,7 +19,7 @@
 #### 4. [MI AT-Tarbiyah]| MA | Cianjur `2003-2004`
    
 ## Work Experience:
-#### 1. [PT.Indomarco Prismatama Cab. Tangerang 2](https://www.indomaret.co.id) | IT Network Enginer | Tangerang `Dec'2010 - Now`
+#### 1. [PT.Indomarco Prismatama Cab. Tangerang 2](https://www.indomaret.co.id) | IT Network Enginer | Tangerang `May'2010 - Now`
    - Topology dan rancangan jaringan Indomaret Cabang Tangerang 2
    - Perencanaan administrasi dan kebutuhan perangkat
    - Infrastruktur Jaringan cabang & private network
