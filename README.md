@@ -36,6 +36,7 @@
 [<img align="left" alt="MikroTik" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/8/80/MikroTik_Logo_%282022%29.svg" style="padding-right:130px;" />][webdev]
 [<img align="left" alt="Aruba" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/5/54/Hpe-aruba-networking-logo.svg" style="padding-right:130px;" />][webdev]
 [<img align="left" alt="Linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Linux_logo.jpg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Windows Server" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Windows_Server_logo.svg" style="padding-right:130px;" />][webdev]
 
 
 <br />
