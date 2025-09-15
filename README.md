@@ -11,14 +11,18 @@
    - Asistant Laboratorium of Basic Electronics
    - Asistant Laboratorium of Installation
    - Tutor of Engineering Mathematics
+     
  #### 2. [SMK Al-Fathonah] | Teknik Komputer Jaringan | Cianjur `2007-2010`
-   - Chief of Rohkris
+   - Asisten Pelatih Tae Kwon Do
+   - Pengurus LAB Komputer ( Installasi komputer & Jaringan )
 
 ## Work Experience:
 #### 1. [PT.Indomarco Prismatama Cab. Tangerang 2](https://www.indomaret.co.id) | IT Network Enginer | Tangerang `Dec'2010 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
+   - Topology dan rancangan jaringan Indomaret Cabang Tangerang 2
+   - Perencanaan administrasi dan kebutuhan perangkat
+   - Infrastruktur Jaringan cabang & private network
+   - Integrasi SDWAN 
+   
 ---
 
 ### Languages and Tools:
@@ -39,14 +43,11 @@
 [![website](./img/youtube-light.svg)](https://www.youtube.com/@agussyarifudin3586#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/@agussyarifudin3586#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/agus.syarifudin25n#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/agus.syarifudin25#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/facebook-light.svg)](https://facebook.com.com/agus.syarifudin25n#gh-light-mode-only)
+[![website](./img/facebook-dark.svg)](https://facebook.com.com/agus.syarifudin25#gh-dark-mode-only)
 
 
 
