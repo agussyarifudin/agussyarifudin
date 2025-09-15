@@ -33,6 +33,7 @@
 [<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Facebook" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Facebook_icon_%28black%29.svg" style="padding-right:10px;" />][webdev]
 
 <br />
 <br />
@@ -45,10 +46,7 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/agus.syarifudin25n#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/agus.syarifudin25#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/facebook-light.svg)](https://facebook.com.com/agus.syarifudin25n#gh-light-mode-only)
-[![website](./img/facebook-dark.svg)](https://facebook.com.com/agus.syarifudin25#gh-dark-mode-only)
 
 
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: [https://github.com/agussyarifudin/agussyarifudin
