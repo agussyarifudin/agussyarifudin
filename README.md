@@ -34,7 +34,7 @@
 ### Skill and Tools:
 
 [<img align="left" alt="MikroTik" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/8/80/MikroTik_Logo_%282022%29.svg" style="padding-right:130px;" />][webdev]
-[<img align="left" alt="Aruba" width="30px" src="https://id.wikipedia.org/wiki/Berkas:Aruba_Networks_logo.svg#/media/Berkas:Aruba_Networks_logo.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Aruba" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/54/Hpe-aruba-networking-logo.svg" style="padding-right:10px;" />][webdev]
 
 
 <br />
