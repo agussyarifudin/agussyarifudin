@@ -1,11 +1,11 @@
-# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Agus - aka [agussyarifudin]
 ## About me:
-- 🔭 I’m currently working as Cyber Security
+- 🔭 I’m currently working as IT Network Enginer at PT.Indomarco Prismatama Cab. Tangerang 2
 - 🌱 I’m currently learning Python and Javascript
 - 👯 I’m looking to collaborate as Data Automation and Analyst
 - 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+- 📫 How to reach me: agoes.syarifoedin@gmail.com
 
 ## Education:
 
