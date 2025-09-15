@@ -27,7 +27,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="MikroTik" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/80/MikroTik_Logo_%282022%29.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="MikroTik" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/8/80/MikroTik_Logo_%282022%29.svg" style="padding-right:80px;" />][webdev]
 
 <br />
 <br />
