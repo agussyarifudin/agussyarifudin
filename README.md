@@ -13,10 +13,10 @@
    - Asisten Pelatih Tae Kwon Do
    - Pengurus LAB Komputer ( Installasi komputer & Jaringan )
 
-#### 2. [MTs AT-TARBIYAH] | MTs | Cianjur `2006-2007`
+#### 3. [MTs AT-Tarbiyah] | MTs | Cianjur `2006-2007`
    - Anggota OSIS
    
-#### 2. [MI AT-TARBIYAH]| MA | Cianjur `2003-2004`
+#### 4. [MI AT-Tarbiyah]| MA | Cianjur `2003-2004`
    
 ## Work Experience:
 #### 1. [PT.Indomarco Prismatama Cab. Tangerang 2](https://www.indomaret.co.id) | IT Network Enginer | Tangerang `Dec'2010 - Now`
@@ -35,6 +35,7 @@
 
 [<img align="left" alt="MikroTik" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/8/80/MikroTik_Logo_%282022%29.svg" style="padding-right:130px;" />][webdev]
 [<img align="left" alt="Aruba" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/5/54/Hpe-aruba-networking-logo.svg" style="padding-right:130px;" />][webdev]
+[<img align="left" alt="Linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Linux_logo.jpg" style="padding-right:10px;" />][webdev]
 
 
 <br />
